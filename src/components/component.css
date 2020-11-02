@@ -1,0 +1,30 @@
+.component1Div{
+    background-color: lightcoral;
+    border: 1px solid red;
+}
+.component1h1{
+    color: white;
+    text-align: center;
+}
+
+.component1p{
+    padding-left: 10px;
+}
+
+.component2Div{
+    background-color: lightskyblue;
+    border: 1px solid blue;
+}
+
+.component3Div{
+    background-color: lightgreen;
+    border: 1px solid green;
+}
+
+.toggleBtn{
+    background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border: none;
+}
