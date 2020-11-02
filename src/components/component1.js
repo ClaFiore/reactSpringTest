@@ -21,7 +21,7 @@ export default function Component1() {
                         to={{number:10}}
                         config={{duration: 10000}}>
                             {props => (
-                                <div>
+                                <div className='counter'>
                                     {props.number.toFixed()}
                                 </div>
                             )}

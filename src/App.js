@@ -1,7 +1,5 @@
 import React, {useState} from 'react'
 import {Transition, animated} from 'react-spring/renderprops'
-
-import './App.css';
 import Component1 from './components/component1'
 import Component2 from './components/Component2'
 import Component3 from './components/Component3'

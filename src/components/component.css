@@ -11,6 +11,15 @@
     padding-left: 10px;
 }
 
+.counter{
+    background-color: gray;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 30px;
+}
+
 .component2Div{
     background-color: lightskyblue;
     border: 1px solid blue;
@@ -27,4 +36,9 @@
     margin: 10px;
     color: white;
     border: none;
+}
+
+.toggleBtn:hover{
+    background-color: lightblue;
+    color: black;
 }
